@@ -1,0 +1,9 @@
+Package: tweakTD
+Name: tweakTD
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wyq
+Author: wyq
+Section: Tweaks
